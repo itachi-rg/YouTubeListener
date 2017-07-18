@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rg\.android\build-cache\2cd976e691600a7f29c7464b2b19e2cc6c0bcf27\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\rg\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9937b9a75a4db2c91c4964ec6fb9dbfc97d9373e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rg\AndroidStudioProjects\MyApplication\app\libs\google-http-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="C:\Users\rg\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-http-client-1.20.0_940d2ae81530772f43402bfded5385652a856e66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rg\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5.1\eecbb0b998e77629862a13d957d552b3be58fc4e\httpclient-android-4.3.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="C:\Users\rg\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-android-4.3.5.1_1082a8e51c7b7d4dc04f7f8c1ad270d27509c78d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rg\.android\build-cache\57a32ed41cad1d582b64774da79950b0565e0f64\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\rg\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bb469ce77373e32b56ffecb14bb33d5dce3f04a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rg\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.8.1\1eb6690b0c629d7000c77a72df5e822fb974f521\jsoup-1.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1eb6690b0c629d7000c77a72df5e822fb974f521">
+        <dex dex="C:\Users\rg\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.8.1_d23a89e1a3f7eb288f199f61db6d176bf5075bad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rg\AndroidStudioProjects\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ad80c2401d24038431e2109c865a9dded188bd6">
+        <dex dex="C:\Users\rg\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_982a7a443f5081e640a650a0d71dbaf325376e7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rg\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\rg\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.0.0_849f31f4e449ec9d0ff6fb398508b2fdcecc77b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rg\AndroidStudioProjects\MyApplication\app\libs\google-api-services-youtube-v3-rev138-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="62587f1e5c3bb280fda7b16c8630f60554bbbd5c">
+        <dex dex="C:\Users\rg\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-services-youtube-v3-rev138-1.20.0_fa8653d0504a8d8f95bb3cf74bf846b1fddadfc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rg\AndroidStudioProjects\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\rg\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_13e228e12c27708f21dabc719a2a9f33940142f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rg\AndroidStudioProjects\MyApplication\app\libs\google-api-client-jackson2-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b3938faf1304c5ec889171e710b266ab829c629">
+        <dex dex="C:\Users\rg\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-client-jackson2-1.20.0_94f90619159e45205fa12018848a9171ada91ede\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rg\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.3.2\90a3822c38ec8c996e84c16a3477ef632cbc87a3\commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="C:\Users\rg\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.3.2_b52ebacabf2f024cdedf5d629e6b71f335215ddb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rg\AndroidStudioProjects\MyApplication\app\libs\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\rg\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\jackson-core-2.1.3_ef113862809b7e935b0a2dbd1dbe6f305457f284\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rg\AndroidStudioProjects\MyApplication\app\libs\google-http-client-jackson2-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="C:\Users\rg\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-http-client-jackson2-1.20.0_5994e7a7787f171c7a844048a4352c0cd4bec19c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rg\.android\build-cache\57a32ed41cad1d582b64774da79950b0565e0f64\output\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\rg\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_ab4ec0b80048feed333d3a48c7e0ab02db04700b\classes.dex" />
+    </item>
+
+</items>
