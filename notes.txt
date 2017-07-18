@@ -1,0 +1,44 @@
+To install google play services on genymotion :
+
+http://stackoverflow.com/questions/20121883/how-to-install-google-play-services-in-a-genymotion-vm-with-no-drag-and-drop-su
+
+Use :  Google Apps for your Android version: 2.3.7 - 4.4.4 
+
+
+
+
+generating debug certificate 
+
+
+c:\Program Files\Java\jdk1.7.0_67\bin>keytool -exportcert -alias androiddebugkey
+ -keystore C:\Users\rg\.android\debug.keystore -list -v
+
+password : android
+
+
+
+adding youtube libraries giving 'appcomcat' error
+30 14:19:39.810  29844-29844/? W/dalvikvm? threadid=1: thread exiting with uncaught exception (group=0xa4bd6648)
+05-30 14:19:39.810  29844-29844/? E/AndroidRuntime? FATAL EXCEPTION: main
+    java.lang.NoClassDefFoundError: android.support.v7.appcompat.R$attr
+            at android.support.v7.app.AppCompatDelegateImplV7.ensureSubDecor(AppCompatDelegateImplV7.java:289)
+            at android.support.v7.app.AppCompatDelegateImplV7.setContentView(AppCompatDelegateImplV7.java:246)
+            at android.support.v7.app.AppCompatActivity.setContentView(AppCompatActivity.java:106)
+            at com.grohan.myapplication.MainActivity.onCreate(MainActivity.java:94)
+            at android.app.Activity.performCreate(Activity.java:5133)
+            at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+            at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2175)
+            at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2261)
+            at android.app.ActivityThread.access$600(ActivityThread.java:141)
+            at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)
+            at android.os.Handler.dispatchMessage(Handler.java:99)
+            at android.os.Looper.loop(Looper.java:137)
+            at android.app.ActivityThread.main(ActivityThread.java:5103)
+            at java.lang.reflect.Method.invokeNative(Native Method)
+            at java.lang.reflect.Method.invoke(Method.java:525)
+            at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:737)
+            at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:553)
+            at dalvik.system.NativeStart.main(Native Method)
+
+
+

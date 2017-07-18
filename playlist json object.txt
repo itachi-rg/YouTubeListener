@@ -1,0 +1,50 @@
+{ 
+"kind": "youtube#playlistListResponse", 
+"etag": "\"xmg9xJZuZD438sF4hb-VcBBREXc/rbSplzF6YOOZBren9fmGIgPA5ns\"", 
+"pageInfo": {  "totalResults": 2,  "resultsPerPage": 5 }, 
+"items": 
+	[  {   
+			"kind": "youtube#playlist",   
+			"etag": "\"xmg9xJZuZD438sF4hb-VcBBREXc/Ke8EeW6nC0DWIaMstfjG1yNtHW0\"",   
+			"id": "PLN2ZYatxb-UDwCXp9cKFIVIZL371iXOJq",   
+			"snippet": {    
+				"publishedAt": "2015-05-31T15:07:19.000Z",    
+				"channelId": "UCOO0C0DtcKo66Bfysx-61iQ",    
+				"title": "Latest pop songs",    
+				"description": "",    
+				"thumbnails": {     
+					"default": {      
+						"url": "https://i.ytimg.com/vi/tA8AfQaUnXM/default.jpg",      
+						"width": 120,      
+						"height": 90     
+					},     
+					"medium": {      
+						"url": "https://i.ytimg.com/vi/tA8AfQaUnXM/mqdefault.jpg",      
+						"width": 320,      
+						"height": 180     
+					},     
+					"high": {      
+						"url": "https://i.ytimg.com/vi/tA8AfQaUnXM/hqdefault.jpg",      
+						"width": 480,      
+						"height": 360     
+					},     
+					"standard": {      
+						"url": "https://i.ytimg.com/vi/tA8AfQaUnXM/sddefault.jpg",      
+						"width": 640,      
+						"height": 480    						
+					},     
+					"maxres": {      
+						"url": "https://i.ytimg.com/vi/tA8AfQaUnXM/maxresdefault.jpg",      
+						"width": 1280,      
+						"height": 720     
+					}    
+				},    
+				"channelTitle": "Rohan Gowda",    
+				"localized": {     
+					"title": "Latest pop songs",     
+					"description": ""    
+				}   
+			}  
+		},  
+		
+		{   "kind": "youtube#playlist",   "etag": "\"xmg9xJZuZD438sF4hb-VcBBREXc/I7l9xO29kOeFStqt1_5HJI1jMHw\"",   "id": "PLN2ZYatxb-UCFQVPygp383k3FyKZH7RX6",   "snippet": {    "publishedAt": "2014-11-13T06:47:16.000Z",    "channelId": "UCOO0C0DtcKo66Bfysx-61iQ",    "title": "My Playlist",    "description": "",    "thumbnails": {     "default": {      "url": "https://i.ytimg.com/vi/QJO3ROT-A4E/default.jpg",      "width": 120,      "height": 90     },     "medium": {      "url": "https://i.ytimg.com/vi/QJO3ROT-A4E/mqdefault.jpg",      "width": 320,      "height": 180     },     "high": {      "url": "https://i.ytimg.com/vi/QJO3ROT-A4E/hqdefault.jpg",      "width": 480,      "height": 360     },     "standard": {      "url": "https://i.ytimg.com/vi/QJO3ROT-A4E/sddefault.jpg",      "width": 640,      "height": 480     },     "maxres": {      "url": "https://i.ytimg.com/vi/QJO3ROT-A4E/maxresdefault.jpg",      "width": 1280,      "height": 720     }    },    "channelTitle": "Rohan Gowda",    "localized": {     "title": "My Playlist",     "description": ""    }   }  } ]}

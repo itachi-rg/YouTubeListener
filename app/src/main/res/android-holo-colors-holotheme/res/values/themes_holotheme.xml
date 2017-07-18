@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="HoloTheme" parent="@style/_HoloTheme"/>
+
+  <style name="_HoloTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+
+    <item name="android:editTextBackground">@drawable/holotheme_edit_text_holo_light</item>
+
+    <item name="android:textColorHighlight">#9999cc00</item>
+    <item name="android:textSelectHandleLeft">@drawable/holotheme_text_select_handle_left</item>
+    <item name="android:textSelectHandleRight">@drawable/holotheme_text_select_handle_right</item>
+    <item name="android:textSelectHandle">@drawable/holotheme_text_select_handle_middle</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewHoloTheme</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/holotheme_btn_check_holo_light</item>
+
+    <item name="android:listChoiceIndicatorSingle">@drawable/holotheme_btn_radio_holo_light</item>
+
+    <item name="android:buttonStyle">@style/ButtonHoloTheme</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonHoloTheme</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerHoloTheme</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarHoloTheme</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarHoloTheme</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarHoloTheme</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigHoloTheme</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallHoloTheme</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleHoloTheme</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/holotheme_list_selector_holo_light</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/holotheme_activated_background_holo_light</item>
+
+    <item name="android:fastScrollThumbDrawable">@drawable/holotheme_fastscroll_thumb_holo</item>
+
+  </style>
+
+</resources>
